@@ -17,5 +17,4 @@ Enerji Tasarrufu: Sistem sadece hareket algıladığında aktifleşecek şekilde
 💻 Yazılım Mantığı
 Kod, sensörün OUT pininden gelen HIGH sinyalini takip eder. Hareket algılandığı anda tone() fonksiyonu ile hedef frekans üretilir ve 500ms (yarım saniye) boyunca yayınlanır. Hareket kesildiğinde noTone() komutuyla sistem uyku moduna geçer.
 
-GitHub'a Yüklerken Küçük Bir Tavsiye:
-GitHub'a sadece kodu değil, projen
+
