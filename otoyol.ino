@@ -1,4 +1,4 @@
-/* AKILLI OTOYOL - KESİN FİNAL KODU
+/* AKILLI OTOYOL
   Sensör: HC-SR501 (VCC, GND, OUT)
   Hedef: Köpek Uzaklaştırma (25 kHz)
 */
